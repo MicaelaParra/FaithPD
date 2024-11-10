@@ -1,6 +1,7 @@
 ## PHYLOGENETIC DIVERSITY ##
 
-#  Parra, Micaela, Laufer, Natalia, Manrique, Julieta M., Jones, Leandro R., Quarleri, Jorge, Phylogenetic Diversity in Core Region of Hepatitis C Virus Genotype 1a as a Factor Associated with Fibrosis Severity in HIV-1-Coinfected Patients, BioMed Research International, 2017, 1728456, 12 pages, 2017. https://doi.org/10.1155/2017/1728456 
+# Parra, Micaela, Laufer, Natalia, Manrique, Julieta M., Jones, Leandro R., Quarleri, Jorge, Phylogenetic Diversity in Core Region of Hepatitis C Virus Genotype 1a as a Factor Associated 
+# with Fibrosis Severity in HIV-1-Coinfected Patients, BioMed Research International, 2017, 1728456, 12 pages, 2017. https://doi.org/10.1155/2017/1728456 
 
 # How to run:
 # R
